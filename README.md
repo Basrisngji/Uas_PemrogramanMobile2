@@ -167,3 +167,6 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
+### Outputnya
+![Gambar 1](img/1.png)
+![Gambar 2](img/2.png)
