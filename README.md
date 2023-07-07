@@ -12,8 +12,10 @@
 | ------------------------------- | :--------: | :---------------------------------------------------: | :-----: | :--------------------------------------------------------- | :------: |
 | API Cuaca Realtime |    weatherapi    |            [Link](https://www.weatherapi.com/)             | `Aktif` | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON                        | `apiKey` |
 
-### Codingan
-Pada file main.dart masukkan codingan dibawah ini :
+### Langkah-langkah
+<p>1.Pastikan Anda telah menginstal Flutter dan mengatur proyek Flutter baru. Jika belum, Anda dapat mengunjungi situs resmi Flutter (https://flutter.dev) untuk informasi lebih lanjut.
+<p>2.Masukkan kode dibawah ini di file main.dart :
+
 ```
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
@@ -167,6 +169,10 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
+<p>3.Jalankan aplikasi dengan menjalankan perintah flutter run pada terminal di direktori proyek Anda.
+  
 ### Outputnya
+<p>Ini adalah tampilan sebelum diinput nama kotanya.
 ![Gambar 1](img/1.png)
+<p>Ini adalah tampilan sesudah diinput nama kotanya.
 ![Gambar 2](img/2.png)
