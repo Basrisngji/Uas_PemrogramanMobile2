@@ -172,7 +172,11 @@ class _MyHomePageState extends State<MyHomePage> {
 <p>3.Jalankan aplikasi dengan menjalankan perintah flutter run pada terminal di direktori proyek Anda.
   
 ### Outputnya
-<p>Ini adalah tampilan sebelum diinput nama kotanya.
+<p>Ini adalah tampilan sebelum diinput nama kotanya.<br>
+  
 ![Gambar 1](img/1.png)
-<p>Ini adalah tampilan sesudah diinput nama kotanya.
+
+<p>Ini adalah tampilan sesudah diinput nama kotanya.<br>
+  
 ![Gambar 2](img/2.png)
+
